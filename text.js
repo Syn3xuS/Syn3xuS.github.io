@@ -21,7 +21,7 @@ $(function () {
 });
 $(function () {
     $(".typed").typed({
-        strings: [ "@Syn3xuS", "Coder", "Junior"],
+        strings: [ "@Syn3xuS", "Coder", "BIMBIMBAMBAM"],
         typeSpeed: 50,
         loop: true,
         cursorChar: "|",
